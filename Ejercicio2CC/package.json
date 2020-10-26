@@ -1,0 +1,22 @@
+{
+  "name": "futbolporrio",
+  "version": "1.0.0",
+  "description": "Apuestas de futbol",
+  "main": "./Apuesta.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajalba/Apuestas.git"
+  },
+  "author": "Abel José Sánchez Alba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajalba/Apuestas/issues"
+  },
+  "homepage": "https://github.com/ajalba/Apuestas#readme",
+  "devDependencies": {
+    "mocha": "^8.2.0"
+  }
+}
